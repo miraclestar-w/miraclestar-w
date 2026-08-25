@@ -40,7 +40,7 @@
 | [**blog**](https://github.com/miraclestar-w/blog) | 本博客源码：Next.js 15 + Cloudflare Pages + D1 边缘全栈，零成本部署 |
 | [**ops-tools**](https://github.com/miraclestar-w/ops-tools) | 铁蛋运维小队 — 运维工具集合 |
 | [**pt-qbit-console**](https://github.com/miraclestar-w/pt-qbit-console) | 中文 PT/qBittorrent Web 控制台 + 桌面小组件 |
-| [**bean-studio**](https://github.com/miraclestar-w/bean-studio) | 浏览器端的串珠图纸设计与组装工作台 |
+| [**bean-studio**](https://github.com/miraclestar-w/bean-studio) | 浏览器端的拼豆图纸设计与组装工作台 |
 
 <br/>
 
