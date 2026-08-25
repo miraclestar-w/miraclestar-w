@@ -1,4 +1,4 @@
-<p align="right"><a href="README_zh-CN.md">简体中文</a> | <b>English</b></p>
+﻿<p align="right"><a href="README_zh-CN.md">简体中文</a> | <b>English</b></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Miracle&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=IT%20Engineer%20%C2%B7%20OpsDev%20%C2%B7%20AI%20Practitioner&descSize=16&descAlignY=70" width="100%" alt="header"/>
 
@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miraclestar-w&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats"/>
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miraclestar-w&layout=compact&theme=github_dark&hide_border=true" alt="langs"/>
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=miraclestar-w&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats"/>
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miraclestar-w&layout=compact&theme=github_dark&hide_border=true" alt="langs"/>
   <img height="150" src="https://streak-stats.demolab.com?user=miraclestar-w&theme=github-dark-blue&hide_border=true&locale=en" alt="streak"/>
 </p>
 
